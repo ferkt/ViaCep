@@ -23,5 +23,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito por Fernando Coelho 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/fernando-coelho-3843b2220/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:fernandocoelho9000@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-coelho-3843b2220/)](https://www.linkedin.com/in/fernando-coelho-3843b2220/) 
+[![Gmail Badge](https://img.shields.io/badge/-fernandocoelho9000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandocoelho9000@gmail.com)](mailto:fernandocoelho9000@gmail.com)
