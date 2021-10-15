@@ -1,8 +1,8 @@
-# AUTOADRESS
+# AUTOADDRESS
 
 ## 🏘️ Aplicação WEB de busca de endereço a partir do CEP
 
-## 🚧 AUTOADRESS 🏘️ Em construção... 🚧 
+## 🚧 AUTOADDRESS 🏘️ Em construção... 🚧 
 PS: Todas as premissas propostas no teste foram atendidas com exceção do uso de PHP que seria aplicado em outra premissa tambem não atendida, a premissa de salvar os dados em uma base e antes de uma nova consulta verificar se o cep já foi consultado, caso tenha sido, trazer informação da base e não deve efetuar uma nova consulta. O motivo das excecões foi a falta de tempo para implementação e alterações no código e banco de dados.
 
 ### 🛠 Tecnologias

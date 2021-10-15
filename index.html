@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>AutoAdress via ViaCEP</title>
+        <title>AutoAddress via ViaCEP</title>
         <link rel="icon" type="image/x-icon" href="assets/ico.png" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
@@ -73,7 +73,7 @@
                             return xmlDoc;
                         }
 
-                        //chamando a função xmlLoader e atribuindo a variável cont
+                        //chamando a função xmlLoader e atribuindo a variável conteudo
                         conteudo = xmlLoader('https://viacep.com.br/ws/'+ cep + '/xml/');
 
                         //função para atualizar o conteúdo dos inputs
@@ -108,7 +108,7 @@
                     <div class="text-center">
                         <!-- Inicio do formulario -->
                         <form method="get" action=".">
-                            <h1 class="mx-auto my-0 text-uppercase">AutoAdress</h1>
+                            <h1 class="mx-auto my-0 text-uppercase">AutoAddress</h1>
                             <h2 class="text-white-50 mx-auto mt-2 mb-5">Insira o CEP para sair o endereço completo automaticamente.</h2>
                             <div class="col"><input class="form-control" id="cep" type="text" placeholder="CEP" aria-label="CEP" maxlength="9" onblur="pesquisacep(this.value);" /></div><br>
                             <div class="col"><input class="form-control" id="rua" type="text" placeholder="Rua" aria-label="Rua" /></div><br>
